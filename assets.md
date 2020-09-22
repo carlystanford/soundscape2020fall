@@ -1,4 +1,4 @@
-This piece uses these sounds from freesound:
+**This piece uses these sounds from freesound:**
 <br/>-alarm sound.wav by caileykehoe (https://freesound.org/people/caileykehoe/)
 <br/>-yawn 2 by Owlish Media (https://freesound.org/people/OwlStorm/)
 <br/>-foot step on carpet.aif by nextmaking (https://freesound.org/people/nextmaking/)
@@ -17,5 +17,9 @@ This piece uses these sounds from freesound:
 <br/>-door open close by amholma (https://freesound.org/people/amholma)
 <br/>-plates by 16G_Pansake_Veinlich_Jakub (https://freesound.org/people/16G_Panska_Veinlich_Jakub/)
 <br/>-eating human.wav by 170048@virtualwindow.co.za (https://freesound.org/people/170048@virtualwindow.co.za/)
+
+**Sounds sourced elsewhere:**
 <br/>-bonapp recorded by Carly Stanford from clip of Bon Appetit Magazine YouTube video entitled "Molly Makes Chicken Pot Pie | From the Test Kitchen | Bon Appetit" published March 20, 2019. Use of this sound falls under fair use for educational purposes. 
+
+**Sounds recorded by me:**
 <br/>-dialogue1, dialogue 2, dialogue 3, dialogue 4, dialogue 5, dialogue 6, hangup, second phone call, greeting convo, end convo, all recorded by Carly Stanford
