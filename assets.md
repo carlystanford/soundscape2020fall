@@ -1,0 +1,21 @@
+This piece uses these sounds from freesound:
+<br/>alarm sound.wav by caileykehoe (https://freesound.org/people/caileykehoe/)
+<br/>yawn 2 by Owlish Media (https://freesound.org/people/OwlStorm/)
+<br/>foot step on carpet.aif by nextmaking (https://freesound.org/people/nextmaking/)
+<br/>pouring coffee.wav by superex1110 (https://freesound.org/people/Superex1110/)
+<br/>bird whistling, single, robin, a.wav by InspectorJ (https://freesound.org/people/InspectorJ/)
+<br/>typing on keyboard.wav by kgatto (https://freesound.org/people/kgatto/)
+<br/>wind, realistic, a.wav by InspectorJ (https://freesound.org/people/InspectorJ/)
+<br/>dishes.mp3 by anemicrose (https://freesound.org/people/anemicrose/)
+<br/>chopping vegetables.wav by ancorapazzo (https://freesound.org/people/ancorapazzo/)
+<br/>sizzle.wav by jaide714 (https://freesound.org/people/jaide714/)
+<br/>serving water quickly.wav by rafael45 (https://freesound.org/people/rafael45/)
+<br/>eau-bouillante1.wav by rombart (https://freesound.org/people/rombart/)
+<br/>taking oven pan out and putting it back into oven.wav by ScottHurly (https://freesound.org/people/ScottHurly)
+<br/>egg timer, ticking, ring by Kinoton (https://freesound.org/people/Kinoton)
+<br/>knock_the_door.wav by anagar (https://freesound.org/people/anagar)
+<br/>door open close by amholma (https://freesound.org/people/amholma)
+<br/>plates by 16G_Pansake_Veinlich_Jakub (https://freesound.org/people/16G_Panska_Veinlich_Jakub/)
+<br/>eating human.wav by 170048@virtualwindow.co.za (https://freesound.org/people/170048@virtualwindow.co.za/)
+<br/>bonapp recorded by Carly Stanford from clip of Bon Appetit Magazine YouTube video entitled "Molly Makes Chicken Pot Pie | From the Test Kitchen | Bon Appetit" published March 20, 2019. Use of this sound falls under fair use for educational purposes. 
+<br/>dialogue1, dialogue 2, dialogue 3, dialogue 4, dialogue 5, dialogue 6, hangup, second phone call, greeting convo, end convo, all recorded by Carly Stanford
